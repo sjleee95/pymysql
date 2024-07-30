@@ -1,0 +1,13 @@
+# Compiled binary files
+*.o
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Cache files
+__pycache__/
+
+#env
+*.env
